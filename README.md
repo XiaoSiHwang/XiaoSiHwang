@@ -3,7 +3,7 @@
 ```txt
 From: 21 February 2025 - To: 19 March 2026
 
-Total Time: 1098 hrs 27 mins
+Total Time: 1098 hrs 26 mins
 
 Java              933 hrs 29 mins       🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜   84.98 %
 Python            52 hrs 25 mins        🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.77 %
