@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2025 - To: 08 April 2026
+From: 21 February 2025 - To: 10 April 2026
 
-Total Time: 1110 hrs 28 mins
+Total Time: 1110 hrs 23 mins
 
-Java              943 hrs 6 mins        🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜   84.93 %
+Java              943 hrs 0 mins        🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜   84.93 %
 Python            52 hrs 31 mins        🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.73 %
 YAML              43 hrs 24 mins        🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.91 %
 XML               11 hrs 45 mins        🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.06 %
